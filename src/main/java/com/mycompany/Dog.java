@@ -8,6 +8,6 @@ public class Dog extends Animal {
 	
 	void makeSound()
 	{
-		System.out.println(this.name + " barks");
+		System.out.println(this.name + " barks.");
 	}
 }

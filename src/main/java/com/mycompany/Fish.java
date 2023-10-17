@@ -8,6 +8,6 @@ public class Fish extends Animal {
 	
 	void makeSound()
 	{
-		System.out.println(this.name + " ");
+		System.out.println(this.name + " goes glub glub");
 	}
 }

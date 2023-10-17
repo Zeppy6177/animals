@@ -5,9 +5,9 @@ public class Bird extends Animal {
 	{
 		super(type, breed, name, color, numLegs, favFood);
 	}
-	
+
 	void makeSound()
 	{
-		
+		System.out.println(this.name + " squaks.");
 	}
 }
